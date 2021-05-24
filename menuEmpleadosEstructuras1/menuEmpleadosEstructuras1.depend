@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1621420929 source:c:\users\pfede\desktop\programas\menuempleadosestructuras1\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"datawarehouse.h"
+	"sector.h"
+
+1621420842 c:\users\pfede\desktop\programas\menuempleadosestructuras1\empleado.h
+	"sector.h"
+	"fecha.h"
+
+1620939101 c:\users\pfede\desktop\programas\menuempleadosestructuras1\datawarehouse.h
+
+1621423024 source:c:\users\pfede\desktop\programas\menuempleadosestructuras1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"comida.h"
+	"almuerzo.h"
+
+1621371586 source:c:\users\pfede\desktop\programas\menuempleadosestructuras1\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+
+1621371586 c:\users\pfede\desktop\programas\menuempleadosestructuras1\sector.h
+
+1621405173 c:\users\pfede\desktop\programas\menuempleadosestructuras1\informes.h
+	"empleado.h"
+	"sector.h"
+
+1621405760 c:\users\pfede\desktop\programas\menuempleadosestructuras1\fecha.h
+
+1621405239 source:c:\users\pfede\desktop\programas\menuempleadosestructuras1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1621423016 source:c:\users\pfede\desktop\programas\menuempleadosestructuras1\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"almuerzo.h"
+	"comida.h"
+	"empleado.h"
+
+1621423016 source:c:\users\pfede\desktop\programas\menuempleadosestructuras1\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comida.h"
+
+1621423016 c:\users\pfede\desktop\programas\menuempleadosestructuras1\comida.h
+
+1621419879 c:\users\pfede\desktop\programas\menuempleadosestructuras1\almuerzo.h
+	"fecha.h"
+	"empleado.h"
+	"comida.h"
+
